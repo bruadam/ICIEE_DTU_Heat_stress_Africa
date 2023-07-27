@@ -1,0 +1,20 @@
+{
+    "February": {
+        "Mean" : {
+            "Braamfischerville" : 25.7,
+            "Riverlea" : 25.1,
+            "Hospital Hill" : 23.6,
+            "Bertrams" : 24.7,
+            "Hillbrow" : 24.4
+        }
+    },
+    "March": {
+        "Mean" : {
+            "Braamfischerville" : 22.5,
+            "Riverlea" : 22.6,
+            "Hospital Hill" : 21.3,
+            "Bertrams" : 22.2,
+            "Hillbrow" : 22.5
+        }
+    }
+}

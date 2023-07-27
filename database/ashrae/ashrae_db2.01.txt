@@ -1,0 +1,77 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 107583 entries, 0 to 107582
+Data columns (total 70 columns):
+ #   Column                                            Non-Null Count   Dtype  
+---  ------                                            --------------   -----  
+ 0   Publication (Citation)                            105928 non-null  object 
+ 1   Data contributor                                  107583 non-null  object 
+ 2   Year                                              107335 non-null  float64
+ 3   Season                                            107342 non-null  object 
+ 4   Koppen climate classification                     107583 non-null  object 
+ 5   Climate                                           107583 non-null  object 
+ 6   City                                              107570 non-null  object 
+ 7   Country                                           107583 non-null  object 
+ 8   Building type                                     103384 non-null  object 
+ 9   Cooling startegy_building level                   106356 non-null  object 
+ 10  Cooling startegy_operation mode for MM buildings  26519 non-null   object 
+ 11  Heating strategy_building level                   37765 non-null   object 
+ 12  Age                                               43579 non-null   float64
+ 13  Sex                                               67035 non-null   object 
+ 14  Thermal sensation                                 104454 non-null  float64
+ 15  Thermal sensation acceptability                   62444 non-null   float64
+ 16  Thermal preference                                85500 non-null   object 
+ 17  Air movement acceptability                        16347 non-null   float64
+ 18  Air movement preference                           43375 non-null   object 
+ 19  Thermal comfort                                   36335 non-null   object 
+ 20  PMV                                               66734 non-null   float64
+ 21  PPD                                               66734 non-null   float64
+ 22  SET                                               66518 non-null   float64
+ 23  Clo                                               99663 non-null   float64
+ 24  Met                                               90419 non-null   float64
+ 25  activity_10                                       8810 non-null    float64
+ 26  activity_20                                       9699 non-null    float64
+ 27  activity_30                                       8754 non-null    float64
+ 28  activity_60                                       9597 non-null    float64
+ 29  Air temperature (C)                               99911 non-null   float64
+ 30  Air temperature (F)                               99911 non-null   float64
+ 31  Ta_h (C)                                          28024 non-null   float64
+ 32  Ta_h (F)                                          28024 non-null   float64
+ 33  Ta_m (C)                                          31148 non-null   float64
+ 34  Ta_m (F)                                          31165 non-null   object 
+ 35  Ta_l (C)                                          10448 non-null   float64
+ 36  Ta_l (F)                                          10448 non-null   float64
+ 37  Operative temperature (C)                         37963 non-null   float64
+ 38  Operative temperature (F)                         37963 non-null   float64
+ 39  Radiant temperature (C)                           32473 non-null   float64
+ 40  Radiant temperature (F)                           32472 non-null   float64
+ 41  Globe temperature (C)                             26004 non-null   float64
+ 42  Globe temperature (F)                             26004 non-null   float64
+ 43  Tg_h (C)                                          53005 non-null   float64
+ 44  Tg_h (F)                                          53005 non-null   float64
+ 45  Tg_m (C)                                          25886 non-null   float64
+ 46  Tg_m (F)                                          25886 non-null   float64
+ 47  Tg_l (C)                                          23248 non-null   float64
+ 48  Tg_l (F)                                          23248 non-null   float64
+ 49  Relative humidity (%)                             97762 non-null   float64
+ 50  Humidity preference                               12243 non-null   object 
+ 51  Humidity sensation                                12540 non-null   float64
+ 52  Air velocity (m/s)                                89892 non-null   float64
+ 53  Air velocity (fpm)                                89881 non-null   float64
+ 54  Velocity_h (m/s)                                  21979 non-null   float64
+ 55  Velocity_h (fpm)                                  21979 non-null   float64
+ 56  Velocity_m (m/s)                                  28320 non-null   float64
+ 57  Velocity_m (fpm)                                  28320 non-null   float64
+ 58  Velocity_l (m/s)                                  10252 non-null   float64
+ 59  Velocity_l (fpm)                                  10252 non-null   float64
+ 60  Subject«s height (cm)                             20353 non-null   float64
+ 61  Subject«s weight (kg)                             24662 non-null   float64
+ 62  Blind (curtain)                                   5735 non-null    float64
+ 63  Fan                                               13186 non-null   float64
+ 64  Window                                            22079 non-null   float64
+ 65  Door                                              11130 non-null   float64
+ 66  Heater                                            8338 non-null    float64
+ 67  Outdoor monthly air temperature (C)               79338 non-null   float64
+ 68  Outdoor monthly air temperature (F)               79336 non-null   float64
+ 69  Database                                          107583 non-null  object 
+dtypes: float64(52), object(18)
+memory usage: 57.5+ MB

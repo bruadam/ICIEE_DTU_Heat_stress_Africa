@@ -1,3 +1,12 @@
-# ICIEE_DTU_Heat_stress_Africa
+# Using AI to predict heat stress in southern African dwellings subjected to climate change
+This repository contains my datasets, codes and notes used for my master's thesis during Spring 2023 at the Technical University of Denmark.
 
-This repository contains codes, python libraries and partial results from a master's thesis written by Bruno Marc J. Adam under the supervision of Professor Jørn Toftum at the Technical University of Denmark - DTU Sustain - International Center for Indoor Environment and Energy.
+# Requirements
+
+Run the following code before runing one of the code present in `/code` folder
+
+```
+pip  install -r requirements.txt
+
+```
+
